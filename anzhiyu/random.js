@@ -1,1 +1,1 @@
-var posts=["uncategorized/一个不幸的消息/","uncategorized/《中学转》/","uncategorized/邮箱/","uncategorized/《初一三十一恒星系拓荒史》/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["文章/《中学转》/","文章/《初一三十一恒星系拓荒史》/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
